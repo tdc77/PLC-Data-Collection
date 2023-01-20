@@ -1,0 +1,9 @@
+D:\DataCollectionMinth\LibplctagWrapper\bin\Debug\LibplctagWrapper.dll
+D:\DataCollectionMinth\LibplctagWrapper\bin\Debug\LibplctagWrapper.pdb
+D:\DataCollectionMinth\LibplctagWrapper\bin\Debug\libplctag.NativeImport.dll
+D:\DataCollectionMinth\LibplctagWrapper\bin\Debug\libplctag.NativeImport.xml
+D:\DataCollectionMinth\LibplctagWrapper\obj\Debug\LibplctagWrapper.csproj.AssemblyReference.cache
+D:\DataCollectionMinth\LibplctagWrapper\obj\Debug\LibplctagWrapper.csproj.CoreCompileInputs.cache
+D:\DataCollectionMinth\LibplctagWrapper\obj\Debug\LibplctagWrapper.csproj.CopyComplete
+D:\DataCollectionMinth\LibplctagWrapper\obj\Debug\LibplctagWrapper.dll
+D:\DataCollectionMinth\LibplctagWrapper\obj\Debug\LibplctagWrapper.pdb

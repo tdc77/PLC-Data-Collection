@@ -13,3 +13,8 @@ Im a controls engineer by trade and like to dabble in programming on the side.  
 Below is a sample of what PLC String array looks like in my test PLC, I tested and it works.
 
 ![PLC Logic](https://user-images.githubusercontent.com/35632706/213927006-82ed6567-5a74-40d9-b41a-ec4409829f26.png)
+
+Here is form with dummy data in gridview.
+
+
+![Programtest](https://user-images.githubusercontent.com/35632706/213927891-7fe54bbc-4f89-4df5-a511-38f13efba434.png)
